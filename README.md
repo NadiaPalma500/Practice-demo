@@ -9,5 +9,7 @@ Some description to follow.
 * A bullet point
 * A second bullet point
 
-*a bold text*
+*an italicised text*
+
+**a bold text**
 
