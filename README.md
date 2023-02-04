@@ -8,4 +8,6 @@ Some description to follow, I've made a small change.
 Some description to follow.
 * A bullet point
 * A second bullet point
-*A bold text
+
+*a bold text*
+
